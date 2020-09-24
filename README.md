@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on awesome web and mobile applications
 - 🌱 I’m currently learning react-native & vlogging
-- 👯 I’m looking to collaborate on vlogging & coding in the startup
+- 👯 I’m looking to collaborate on starting a new vlog channel on YouTube
 - 🤔 I’m looking for help with investment for my startup [The Spot Ticketing UG](http://corporate.the-spot.online/)
 
 
