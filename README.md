@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning react-native & vlogging
 - 👯 I’m looking to collaborate on vlogging & coding in the startup
 - 🤔 I’m looking for help with investment for my startup the-spot.online
-- 📫 How to reach me: 
+
+
+**Connect with me:**
 [<img align="left" alt="Chinmay Pingale | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 
 
