@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 [<img align="left" alt="Chinmay Pingale | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 
+![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-92&show_icons=true&theme=radical)
+
 
 [linkedin]: https://www.linkedin.com/in/cppingale/
 -->
