@@ -7,7 +7,7 @@
 
 
 **Connect with me:**
-[<img align="left" alt="Chinmay Pingale | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+[<img alt="Chinmay Pingale | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/cppingale/
