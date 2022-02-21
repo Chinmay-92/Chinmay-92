@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on awesome web and mobile applications
-- 🌱 I’m currently learning react-native & vlogging
+- 🌱 I’m currently learning nestJS and reactJS
 - 👯 I’m looking to collaborate on starting a new vlog channel on YouTube
-- 🤔 I’m looking for help with investment for my startup [The Spot Ticketing UG](http://corporate.the-spot.online/)
+- 🤔 I worked as Cofounder and CTO in my startup [The Spot Ticketing UG](http://corporate.the-spot.online/)
 
 
 **Connect with me:**
