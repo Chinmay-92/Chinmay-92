@@ -9,7 +9,7 @@
 **Connect with me:**
 [<img alt="Chinmay Pingale | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
 
-![Book an appointment](https://topmate.io/cppingale)
+Book an appointment: [https://topmate.io/cppingale]
 
 
 [linkedin]: https://www.linkedin.com/in/cppingale/
